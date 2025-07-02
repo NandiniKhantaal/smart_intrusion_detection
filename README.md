@@ -78,7 +78,7 @@ Else:
 
 ## 🧪 Circuit Diagram (Wokwi)
 
-👉 [Live Circuit on Wokwi](https://wokwi.com/projects/435106237245571073)
+👉 [Live Circuit on Wokwi](https://wokwi.com/projects/435388129210793985)
 
 ### 🔌 GPIO Pin Mapping
 
@@ -185,9 +185,8 @@ Since Wokwi doesn’t support actual HTTP requests:
 
 ## 👤 Developed By
 
-**Sameer Mahindru**  
-Events Head, Mozilla Firefox Club – VIT Vellore  
-B.Tech Information Technology  
+**Nandini Khantaal**    
+B.Tech EEE  
 VIT Vellore
 
 ---
